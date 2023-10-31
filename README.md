@@ -1,5 +1,5 @@
-### Hi there 👋
 
+<img width=100% src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif">
 <!--
 **sssAFsss/sssAFsss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
